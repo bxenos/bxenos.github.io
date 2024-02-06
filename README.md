@@ -1,6 +1,6 @@
 ## hello-world
 
-This page is Created by Brayden Xenos, student at Boise State University!
+This page is Created by Brayden Xenos, student at Boise State University! 😎
 
 Hosted at: https://bxenos.github.io/
 
